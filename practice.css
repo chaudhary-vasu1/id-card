@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 0, 38);
+    font-weight: 200;
+     margin: 0 auto;
+    transition: margin-top 2s ease-in 0.2s;
+
+}
+div:hover{
+     animation: bounceDown 1s ease-out forwards;
+    margin-top: 400px;
+    background-color: rgba(160, 112, 95,0.9);
+    border-radius: 50%;
+    transform: rotate(360deg);
+    
+}

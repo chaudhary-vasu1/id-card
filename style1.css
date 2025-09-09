@@ -1,0 +1,16 @@
+h2{
+    color:red;
+}
+input{
+    color: aqua;
+}
+select{
+    color:azure;
+}
+option{
+    color: brown;
+}
+button{
+    color: blue;
+    background-color: chocolate;
+}
